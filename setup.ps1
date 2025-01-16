@@ -1,4 +1,4 @@
-$githubOrganizationName = '<myGithubUser>'
+$githubOrganizationName = 'lackoflifestyle'
 $githubRepositoryName = 'toy-website-test'
 $rg = "ToyWebsiteTest"
 $location = "westus2"
